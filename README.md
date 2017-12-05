@@ -1,4 +1,4 @@
-# Unblock All Files
+# Unblock All Files Explorer Integration
 
 When you download files from the Internet using Windows 10 sometimes they will be blocked due to the **SmartScreen** feature.
 
